@@ -142,7 +142,7 @@
 %	PRESENTATION INFORMATION
 %----------------------------------------------------------------------------------------
 
-\title[Scrum Methodology]{ \textbf{SCRUM Methodology  :} \\ \text{Team\_SCRUM}} % The short title in the optional parameter appears at the bottom of every slide, the full title in the main parameter is only on the title page
+\title[Scrum Methodology]{ \textbf{SCRUM Methodology :} \\ \text{Team\_SCRUM}} % The short title in the optional parameter appears at the bottom of every slide, the full title in the main parameter is only on the title page
 
 %\subtitle{Optional Subtitle} % Presentation subtitle, remove this command if a subtitle isn't required
 
@@ -164,7 +164,7 @@
 %----------------------------------------------------------------------------------------
 
 \begin{frame}
-    \titlepage % Output the title slide, automatically created using the text entered in the PRESENTATION INFORMATION block above
+	\titlepage % Output the title slide, automatically created using the text entered in the PRESENTATION INFORMATION block above
 \end{frame}
 
 %----------------------------------------------------------------------------------------
@@ -174,10 +174,10 @@
 % The table of contents outputs the sections and subsections that appear in your presentation, specified with the standard \section and \subsection commands. You may either display all sections and subsections on one slide with \tableofcontents, or display each section at a time on subsequent slides with \tableofcontents[pausesections]. The latter is useful if you want to step through each section and mention what you will discuss.
 
 \begin{frame}
-    \frametitle{Presentation Overview} % Slide title, remove this command for no title
+	\frametitle{Presentation Overview} % Slide title, remove this command for no title
 
-    \tableofcontents % Output the table of contents (all sections on one slide)
-    %\tableofcontents[pausesections] % Output the table of contents (break sections up across separate slides)
+	\tableofcontents % Output the table of contents (all sections on one slide)
+	%\tableofcontents[pausesections] % Output the table of contents (break sections up across separate slides)
 \end{frame}
 
 %----------------------------------------------------------------------------------------
@@ -190,36 +190,46 @@
 
 \subsection{Definition}
 \begin{frame}
-    \frametitle{Definition}
-    Scrum is an agile framework for project management.
-    \bigskip
-    \begin{itemize} % Left column width
-        \item iterative development
-        \item team collaboration for solving complex problems
-        \item continuous improvement
-    \end{itemize}
+	\frametitle{Definition}
+	Scrum is an agile framework for project management.
+
+	\begin{columns}[c] % The "c" option specifies centered vertical alignment while the "t" option is used for top vertical alignment
+		\begin{column}{0.45\textwidth} % Left column width
+			\begin{itemize} % Left column width
+				\item iterative development
+				\item team collaboration for solving complex problems
+				\item continuous improvement
+			\end{itemize}
+		\end{column}
+		\begin{column}{0.5\textwidth} % Right column width
+			\begin{figure}
+				\includegraphics[width=0.7\linewidth]{scrum-logo.png}
+			\end{figure}
+		\end{column}
+	\end{columns}
+
 \end{frame}
 
 \subsection{History of the Scrum Programming}
 
 
 \begin{frame}
-    \frametitle{History}
-    \begin{itemize}
-        \item Introduced by Jeff Sutherland and Ken Schwaber  in the early 1990s
-        \item  Scrum quickly gained popularity due to its focus on iterative development, collaboration, and adaptability.
-    \end{itemize}
-    \begin{columns}[c] % The "c" option specifies centered vertical alignment while the "t" option is used for top vertical alignment
-        \begin{column}{0.45\textwidth} % Left column width
-            The Scrum method is inspired by the "scrum" formation in rugby
-        \end{column}
-        \begin{column}{0.5\textwidth} % Right column width
-            \begin{figure}
-                \includegraphics[width=0.8\linewidth]{scrum.jpg}
-                \caption{Scrum formation}
-            \end{figure}
-        \end{column}
-    \end{columns}
+	\frametitle{History}
+	\begin{itemize}
+		\item Introduced by Jeff Sutherland and Ken Schwaber  in the early 1990s
+		\item  Scrum quickly gained popularity due to its focus on iterative development, collaboration, and adaptability.
+	\end{itemize}
+	\begin{columns}[c] % The "c" option specifies centered vertical alignment while the "t" option is used for top vertical alignment
+		\begin{column}{0.45\textwidth} % Left column width
+			The Scrum method is inspired by the "scrum" formation in rugby
+		\end{column}
+		\begin{column}{0.5\textwidth} % Right column width
+			\begin{figure}
+				\includegraphics[width=0.8\linewidth]{scrum.jpg}
+				\caption{Scrum formation}
+			\end{figure}
+		\end{column}
+	\end{columns}
 
 \end{frame}
 
@@ -227,7 +237,7 @@
 
 \begin{frame}
 
-    The text of the one who will present his part
+	The text of the one who will present his part
 \end{frame}
 
 
@@ -235,7 +245,7 @@
 
 
 \begin{frame}
-    The text of the one who will present his part
+	The text of the one who will present his part
 
 \end{frame}
 
@@ -258,26 +268,26 @@
 \subsection{Principes}
 
 \begin{frame}
-    \frametitle{Role}
+	\frametitle{Role}
 
-    my text here
+	my text here
 \end{frame}
 
 %------------------------------------------------
 
 \begin{frame}
-    \frametitle{The principe}
+	\frametitle{The principe}
 
-    my text here
+	my text here
 \end{frame}
 
 %------------------------------------------------
 \section{avantages and disadvantages of the Scrum Methodology}
 
 \begin{frame}
-    \frametitle{Advantages and disadvantages}
+	\frametitle{Advantages and disadvantages}
 
-    The text of the one who will present this part
+	The text of the one who will present this part
 \end{frame}
 
 
@@ -286,16 +296,18 @@
 \subsection{conclusion}
 
 \begin{frame}
-    \frametitle{Conclusion}
-    the text of the one who will present this part
+	\frametitle{Conclusion}
+	the text of the one who will present this part
 \end{frame}
 
 %------------------------------------------------
 \section{References}
 
-\begin{frame} % Use [allowframebreaks] to allow automatic splitting across slides if the content is too long
-    \frametitle{References}
-    Here everyonne will add the references of his research here
+\begin{frame}[allowframebreaks] % Use [allowframebreaks] to allow automatic splitting across slides if the content is too long
+	\begin{thebibliography}{99}
+		\bibitem{schwaber2021scrum}Schwaber, K. \& Sutherland, J. The Scrum Guide. 2020. {\em Accessed April}. (2021)
+        \bibitem{sutherland1995scrum}Sutherland, J. \& Schwaber, K. The SCRUM methodology. {\em Business Object Design And Implementation: OOPSLA Workshop}. (1995)
+	\end{thebibliography}
 \end{frame}
 
 
@@ -304,13 +316,13 @@
 %----------------------------------------------------------------------------------------
 
 \begin{frame}[plain] % The optional argument 'plain' hides the headline and footline
-    \begin{center}
-        {\Huge The End}
+	\begin{center}
+		{\Huge The End}
 
-        \bigskip\bigskip % Vertical whitespace
+		\bigskip\bigskip % Vertical whitespace
 
-        {\LARGE Questions? Comments?}
-    \end{center}
+		{\LARGE Questions? Comments?}
+	\end{center}
 \end{frame}
 
 %----------------------------------------------------------------------------------------
