@@ -12,7 +12,8 @@ M1 CSMI 2023-2024
   Member 3: 
 
   Member 4: 
-
+## Description
+Beamer LaTeX presentation of the Scrum Methodology. 
 ## Presentation Structure
 1 - Oussama BOUHENNICHE
 ### Introduction:
