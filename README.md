@@ -9,7 +9,7 @@ M1 CSMI 2023-2024
 
   Member 2: 
 
-  Member 3: 
+  Member 3: Komi Joseph Béni ASSIGBE
 
   Member 4: 
 ## Description
@@ -19,4 +19,16 @@ Beamer LaTeX presentation of the Scrum Methodology.
 ### Introduction:
   - Definition
   - History
+<!-- 2 - 
+### Introduction:
+  - Definition
+  - History -->
+3 - Komi Joseph Béni ASSIGBE
+### the Role and Principles of THe Scrum Methodology:
+  - Role
+  - Principles
+<!-- 4 - 
+### Introduction:
+  - Definition
+  - History -->
 
