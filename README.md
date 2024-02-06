@@ -7,7 +7,7 @@ M1 CSMI 2023-2024
 
   Member 1: Oussama BOUHENNICHE
 
-  Member 2: 
+  Member 2: Chahid Rahouti
 
   Member 3: Komi Joseph Béni ASSIGBE
 
@@ -19,10 +19,12 @@ Beamer LaTeX presentation of the Scrum Methodology.
 ### Introduction:
   - Definition
   - History
-<!-- 2 - 
-### Introduction:
-  - Definition
-  - History -->
+  <!-- 2 - 
+2 - Chahid Rahouti
+### The functionning of the Scrum Methodology:
+  - Scrum events
+  - Scrum artifacts
+  <!-- 3 - 
 3 - Komi Joseph Béni ASSIGBE
 ### the Role and Principles of THe Scrum Methodology:
   - Role
