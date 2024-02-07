@@ -31,8 +31,9 @@ Beamer LaTeX presentation of the Scrum Methodology.
 ### the Role and Principles of THe Scrum Methodology:
   - Role
   - Principles
-<!-- 4 - 
-### Introduction:
-  - Definition
-  - History -->
+
+### The avantages and disadvantages of the Scrum Methodology
+  - Advantages
+  - Disadvantages
+  - Conclusion 
 
