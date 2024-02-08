@@ -21,10 +21,10 @@ Beamer LaTeX presentation of the Scrum Methodology.
   - Definition
   - History
 
-2 - Chahid Rahouti
+2 - Chahid RAHOUTI
 ### The functionning of the Scrum Methodology:
-  - Scrum events
-  - Scrum artifacts
+  - Scrum Events
+  - Scrum Artifacts
   
 3 - Komi Joseph Béni ASSIGBE
 
