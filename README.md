@@ -36,5 +36,5 @@ Beamer LaTeX presentation of the Scrum Methodology.
 ### The avantages and disadvantages of the Scrum Methodology
   - Advantages
   - Disadvantages
-  - Conclusion 
+### Conclusion 
 
