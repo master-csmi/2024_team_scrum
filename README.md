@@ -7,7 +7,7 @@ M1 CSMI 2023-2024
 
   Member 1: Oussama BOUHENNICHE
 
-  Member 2: Chahid Rahouti
+  Member 2: Chahid RAHOUTI
 
   Member 3: Komi Joseph Béni ASSIGBE
 
@@ -21,20 +21,20 @@ Beamer LaTeX presentation of the Scrum Methodology.
   - Definition
   - History
 
-2 - Chahid Rahouti
+2 - Chahid RAHOUTI
 ### The functionning of the Scrum Methodology:
-  - Scrum events
-  - Scrum artifacts
+  - Scrum Events
+  - Scrum Artifacts
   
 3 - Komi Joseph Béni ASSIGBE
 
-### the Role and Principles of THe Scrum Methodology:
-  - Role
+### the Roles and Principles of The Scrum Methodology:
+  - Roles
   - Principles
 
 4 - Narimpane ZAOUACHE
 ### The avantages and disadvantages of the Scrum Methodology
   - Advantages
   - Disadvantages
-  - Conclusion 
+### Conclusion 
 
