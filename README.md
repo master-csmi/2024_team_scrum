@@ -7,7 +7,7 @@ M1 CSMI 2023-2024
 
   Member 1: Oussama BOUHENNICHE
 
-  Member 2: Chahid RAHOUTI ce message pour tester
+  Member 2: Chahid RAHOUTI
 
   Member 3: Komi Joseph Béni ASSIGBE
 
