@@ -28,7 +28,7 @@ Beamer LaTeX presentation of the Scrum Methodology.
   
 3 - Komi Joseph Béni ASSIGBE
 
-### the Role and Principles of THe Scrum Methodology:
+### the Role and Principles In  THe Scrum Methodology:
   - Role
   - Principles
 
