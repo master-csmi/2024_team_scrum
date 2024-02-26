@@ -23,8 +23,8 @@ Beamer LaTeX presentation of the Scrum Methodology.
 
 2 - Chahid RAHOUTI
 ### The functionning of the Scrum Methodology:
-  - Scrum Events and Artifacts
-  - Scrum Process
+  - Scrum Events
+  - Scrum Artifacts
   
 3 - Komi Joseph Béni ASSIGBE
 
