@@ -33,7 +33,7 @@ Beamer LaTeX presentation of the Scrum Methodology.
   - Role
   - Principles
 
-4- Narimane ZAOUACHE
+4 - Narimpane ZAOUACHE
 ### The avantages and disadvantages of the Scrum Methodology
   - Advantages
   - Disadvantages
